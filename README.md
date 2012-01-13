@@ -4,7 +4,7 @@ It is designed to store your aliases in a local_aliases file that your .bashrc w
 Usage:
 ./aliaser.sh alias_name "command"
 
-Don't forget to chmod +x the file.
+Don't forget to chmod +x the file!!
 
 Improvements needed:
 - error handling
